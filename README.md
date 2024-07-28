@@ -13,7 +13,7 @@ Compilation of SQL data analysis related projects and challenges where I practic
 
 # Projects & Challenges
 
-## [Retail Bike Store Data Analysis]([Retail%20Bike%20Store%20Data%20Analysis](https://github.com/imomenujung/SQL-Project/blob/main/Data-Analyst/Bike-Store-Relational/Retail_Bike_Store_Data_Analysis.ipynb))
+## [Retail Bike Store Data Analysis](https://github.com/imomenujung/SQL-Project/blob/main/Data-Analyst/Bike-Store-Relational/Retail_Bike_Store_Data_Analysis.ipynb)
 The GitHub project "Retail Bike Store Data Analysis" involves analyzing data from a fictional bike store using SQL. Key aspects of the project include:
 
 + Data Preparation: Cleaning and organizing raw data.
